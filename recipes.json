@@ -1,0 +1,183 @@
+[
+    {
+      "id": "1",
+      "name": "Tumis buncis udang",
+      "origin": "Muarateweh, Provinsi Central Kalimantan",
+      "cooking time": 15, 
+      "level": "Easy",
+      "serving": 2,
+      "image": "https://hilaryoung.github.io/test_json/img/tumisudang.jpg",
+      "ingredients": [
+        "Snap beans",
+        "Sugar",
+        "Salt",
+        "Shrimp",
+        "Red chilli",
+        "Green chilii",
+        "Cabai rawit",
+        "Garlic",
+        "Red onion",
+        "Kemiri"
+      ],
+      "steps": [
+        "Saute ground spices, add a little water and cook until fragrant.",
+        "Add the snap beans and sliced ​​green chilies, then add the sugar, salt and seasoning, mix well.",
+        "Finally add the prawns, cook until the prawns change color and are cooked. Lift and serve."
+      ],
+      "author": "Mufaridah Fauziah",
+      "link": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/"
+    },
+
+    {
+        "id": "2",
+        "name": "Sambal Pecel",
+        "origin": "Magelang, Provinsi Central Java",
+        "cooking time": 45, 
+        "level": "Medium",
+        "serving": 5,
+        "image": "https://hilaryoung.github.io/test_json/img/sambalpecel.jpg",
+        "ingredients": [
+          "Roasted peanuts",
+          "Red chilli",
+          "Garlic",
+          "Kemiri",
+          "Lime leaves",
+          "Salt"
+        ],
+        "steps": [
+          "Fry or roast peanuts until cooked. Remove and drain then let stand until cold.",
+          "Grind the peanuts with a mortar, grinder or meat grinder until smooth. Put it in a container.",
+          "Subtle Seasoning: Fry the chilies, garlic and kencur until wilted. Lift and drain.",
+          "Grind or mash with palm sugar and lime leaves until smooth.",
+          "Mix the Smooth Seasoning with ground peanuts, tamarind then stir until completely blended and blended.",
+          "Pecel seasoning is ready to be used for boiled vegetable sauce."
+        ],
+        "author": "Odilia WS",
+        "link": "https://food.detik.com/bumbu-dasar-dan-sambal/d-6072110/resep-bumbu-pecel-sayur-yang-gurih-manis-pedasnya-mantap"
+      }, 
+
+
+      {
+        "id": "3",
+        "name": "Sayur Asam",
+        "origin": "Aceh, Provinsi South Kalimantan",
+        "cooking time": 15, 
+        "level": "Easy",
+        "serving": 4,
+        "image": "https://hilaryoung.github.io/test_json/img/sayurasam.jpg",
+        "ingredients": [
+          "Chayote",
+          "Snap beans",
+          "Corn",
+          "Melinjo",
+          "Soybean sprouts",
+          "Galangal",
+          "Garlic",
+          "Red onion",
+          "Red chilli",
+          "Kemiri",
+          "Terasi",
+          "Tomato",
+          "Salt",
+          "Sugar"
+        ],
+        "steps": [
+          "Bring the water to a boil, add the corn and boil briefly. Then add the other vegetables.",
+          "Cook the vegetables until half cooked, then add the ground spices, galangal, bay leaves, salt and seasoning.",
+          "Cook vegetables until cooked, then serve.",
+          "Goreng cabai, tomat, dan bawang hingga layu.",
+          "Then puree and season with salt and sugar."
+        ],
+        "author": "Kananda Budiswono",
+        "link": "https://www.brilio.net/ragam/15-resep-masakan-rumahan-sederhana-enak-dan-mudah-dibuat-2107096.html"
+      },
+
+
+      {
+        "id": "4",
+        "name": "Sambal Matah Bali",
+        "origin": "Provinsi Bali",
+        "cooking time": 20, 
+        "level": "Easy",
+        "serving": 4,
+        "image": "https://hilaryoung.github.io/test_json/img/samalmatah.jpg",
+        "ingredients": [
+          "Red chilli",
+          "Red onion",
+          "Lemongrass",
+          "Lime leaves",
+          "Terasi",
+          "Garam",
+          "Lime",
+          "Coconut sugar",
+          "Coconut oil"
+        ],
+        "steps": [
+          "Mix well the red bird's eye chilies, shallots, lemongrass, lime leaves, grilled shrimp paste, salt, and lime. Squeeze until the ingredients wither. set aside.",
+          "Heat the coconut oil, immediately pour it into the chili mixture. Stir well. Serve."
+        ],
+        "author": "Endeus Makan",
+        "link": "https://endeus.tv/resep/sambal-matah/cara-membuat"
+      },
+
+      {
+        "id": "5",
+        "name": "Sambal Ayam Goreng Khalasan khas jogja",
+        "origin": "Jogja, Province of Special Region of Yogyakarta",
+        "cooking time": 45, 
+        "level": "Medium",
+        "serving": 8,
+        "image": "https://hilaryoung.github.io/test_json/img/sambalgoreng.jpg",
+        "ingredients": [
+          "Red chilli",
+          "Cabai rawit",
+          "Red onion",
+          "Terasi",
+          "Tomato",
+          "Brown sugar",
+          "Salt",
+          "Vegetable broth",
+          "Palm oil"
+        ],
+        "steps": [
+          "Heat the oil, sauté the ground spices and sliced ​​chilies until cooked and fragrant. Lift.",
+          "Put it in a saucepan, pour coconut milk and add bay leaves and galangal.",
+          "Cook over medium heat until boiling.",
+          "Enter the tolo beans, krecek and tofu. Cook over medium heat until the beans are soft and the flavors meld.",
+          "Add thick coconut milk and red chilies. Cook over low heat until the spices are absorbed and the gravy is thick and oily. Turn off the fire."
+        ],
+        "author": "Odilia WS",
+        "link": "https://food.detik.com/daging/d-5298586/resep-sambal-goreng-krecek-khas-yogya-yang-pedas-mlekoh"
+      },
+
+
+      {
+        "id": "6",
+        "name": "Bubu SumSum",
+        "origin": "Jogja, Province of Special Region of Yogyakarta",
+        "cooking time": 40, 
+        "level": "Easy",
+        "serving": 5,
+        "image": "https://hilaryoung.github.io/test_json/img/sumsum.jpg",
+        "ingredients": [
+          "Rice flour",
+          "Condensed milk",
+          "Salt",
+          "Coconut cream",
+          "Pandan leaves",
+          "Brown sugar"
+        ],
+        "steps": [
+          "Dissolve water with condensed milk.",
+          "Mix rice flour, with coconut milk, salt",
+          "Add the milk solution",
+          "Cook until thickened while stirring",
+          "Cook brown sugar, pandan and water",
+          "Add condensed milk",
+          "Serve the Bubur Sumsum porridge with brown sugar sauce"
+        ],
+        "author": "Khansa Iskandar",
+        "link": "https://www.frisianflag.com/resep-kami/resep-dengan-kental-manis/resep-bubur-sumsum"
+      }
+  
+  ]
