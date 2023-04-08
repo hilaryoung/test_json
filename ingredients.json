@@ -1,0 +1,121 @@
+[
+    {
+      "id": "1",
+      "enName": "Salt",
+      "idName": "Garam",
+      "enType": "Spice & Herbs", 
+      "idType": "Bumbu & Rempah"
+    },
+    {
+      "id": "2",
+      "enName": "Black pepper",
+      "idName": "Lada hitam",
+      "enType": "Spice & Herbs", 
+      "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": "3",
+        "enName": "Garlic",
+        "idName": "Bawang putih",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": "4",
+        "enName": "Sweet soy sauce",
+        "idName": "Kecap manis",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": "4",
+        "enName": "Chicken thighs",
+        "idName": "Paha ayam",
+        "enType": "Meat", 
+        "idType": "Daging"
+    },
+    {
+        "id": "5",
+        "enName": "Red onion",
+        "idName": "Bawang merah",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": "6",
+        "enName": "Kemiri",
+        "idName": "Kemiri",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": "7",
+        "enName": "Roasted peanuts",
+        "idName": "Kacang panggang",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": "8",
+        "enName": "Coconut sugar",
+        "idName": "Gula kelapa",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": "9",
+        "enName": "Snap beans",
+        "idName": "Buncis",
+        "enType": "Vegetables", 
+        "idType": "Sayuran"
+    },
+    {
+        "id": "9",
+        "enName": "Shrimp",
+        "idName": "Udang",
+        "enType": "Seafood", 
+        "idType": "Makanan laut"
+    },
+    {
+        "id": "10",
+        "enName": "Oyster sauce",
+        "idName": "Saos Tiram",
+        "enType": "Seasoning", 
+        "idType": "Bumbut"
+    },
+    {
+        "id": "11",
+        "enName": "Sugar",
+        "idName": "Gula",
+        "enType": "Seasoning", 
+        "idType": "Bumbut"
+    },
+    {
+        "id": "12",
+        "enName": "Red chilli",
+        "idName": "Cabai merah",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": "13",
+        "enName": "Tamarind",
+        "idName": "Asam jawa",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": "14",
+        "enName": "Terasi",
+        "idName": "Terasi",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": "15",
+        "enName": "Tomato",
+        "idName": "Tomat",
+        "enType": "Vegetables", 
+        "idType": "Sayuran"
+    }
+  ]
